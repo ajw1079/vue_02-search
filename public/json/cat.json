@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "src": "/img/cat_01.jpeg",
+        "title": "우리는 가족",
+        "description": "깜찍한 아기 고양이들",
+        "age": "3month"
+    },
+    {
+        "id": 2,
+        "src": "/img/cat_02.jpeg",
+        "title": "깜찍한 고양이",
+        "description": "눈이 반짝이는 귀여운 고양이",
+        "age": "5month"
+    },
+    {
+        "id": 3,
+        "src": "/img/cat_03.jpeg",
+        "title": "호기심 많은 고양이",
+        "description": "갓 태어난 아기 고양이",
+        "age": "2month"
+    },
+    {
+        "id": 4,
+        "src": "/img/cat_04.jpeg",
+        "title": "고양이의 일상 - 잠자기",
+        "description": "고양이의 낮잠",
+        "age": "4month"
+    }
+]
